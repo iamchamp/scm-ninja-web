@@ -23,7 +23,7 @@
 
 
     <build>
-        <finalName>ninja-${project.version}</finalName>
+        <finalName>4PRO-${project.version}</finalName>
         <plugins>
 
             <plugin>
