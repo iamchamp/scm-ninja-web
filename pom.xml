@@ -23,6 +23,7 @@
 
 
     <build>
+        <finalName>4PRO.war</finalName>
         <plugins>
 
             <plugin>
