@@ -11,7 +11,7 @@
     <artifactId>ninja</artifactId>
     <packaging>war</packaging>
     <groupId>ninja-scm</groupId>
-    <version>1.0</version>
+    <version>2.0</version>
     
     <url>http://www.ninjaframework.org</url>
     
