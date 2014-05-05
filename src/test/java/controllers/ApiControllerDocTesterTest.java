@@ -38,8 +38,8 @@ public class ApiControllerDocTesterTest extends NinjaDocTester {
                 Request.GET().url(
                         testServerUrl().path(URL_INDEX)));
 
-        assertThat(response.payload, containsString("Welcome"));
-        assertThat(response.payload, containsString("Home"));
+        assertThat(response.payload, containsString("4PRO"));
+        //assertThat(response.payload, containsString("Home"));
 
 
     }
